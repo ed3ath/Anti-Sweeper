@@ -1,0 +1,15 @@
+{
+  "name": "antisweeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "eD3ath",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "ethers": "^5.7.2",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.38",
+    "yargs": "^17.6.0"
+  }
+}
